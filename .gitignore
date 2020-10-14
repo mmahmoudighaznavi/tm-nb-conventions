@@ -1,3 +1,9 @@
+*.db
+*.zip
+text_functions_solutions.py
+*- Solution.ipynb
+big.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
