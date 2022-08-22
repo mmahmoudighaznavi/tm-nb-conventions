@@ -13,14 +13,7 @@ folder as this repository.
 
 ## Part 1: Exploratory Naive Bayes
 
-In this section you will build a Naive Bayes classifier on the convention
-speeches, using the words of the speech text to predict the party (either 
-Republican or Democratic). The function that creates your feature dictionary
-should just use the words present in the text as the keys and the value 
-should be "True". I've included some code that would help you limit the
-number of words you consider in your model, which might improve run-time. 
-
-I've asked you to fill in some observations from the fitted model.
+In this section, you will build a Naïve Bayes classifier on the convention speeches, using the words of the speech text to predict the party (either Republican or Democratic). Your starting notebook walks you through the steps of fitting and using a Naïve Bayes model from the NLTK package. This repo includes some code that would help you limit the number of words you consider in your model, which might improve run-time. We have asked you to fill in some observations from the fitted model.
 
 ## Part 2: Classifying Tweets
 
