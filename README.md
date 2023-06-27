@@ -4,7 +4,7 @@ In this assignment we use Naive Bayes (NB) for its two greatest strengths:
 1. Exploration of a data set 
 1. Classification of new data based on training data
 
-The databases are not small, so I'm going to share them via a dropbox link.
+The databases are not small, so I'm going to share them via a Dropbox link.
 You should be able to access the file 
 [here](https://www.dropbox.com/s/mwhd2ktvtnyapwx/nb-assignment-data.zip?dl=0).
 
@@ -18,7 +18,7 @@ In this section, you will build a Naïve Bayes classifier on the convention spee
 ## Part 2: Classifying Tweets
 
 We have a pretty gigantic database of tweets (and other data) from 
-everyone running for congress in 2018. As an exercise, we'll try to 
+everyone running for Congress in 2018. As an exercise, we'll try to 
 use this convention model to classify those tweets. 
 
 The notebook walks you through the steps in broad terms: 
